@@ -13,3 +13,5 @@
 Дан массив целых чисел piles, где piles[i] - количество монет в i-й куче.
 
 Верните максимальное количество монет, которое можно иметь.
+
+[Ссылка на задачу](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/description/?envType=daily-question&envId=2023-11-24)
