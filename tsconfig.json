@@ -1,0 +1,10 @@
+{
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    "target": "ESNext",
+    "lib": ["ESNext", "dom"],
+    "moduleResolution": "node",
+    "outDir": "dist",
+    "esModuleInterop": true,
+  }
+}
