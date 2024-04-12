@@ -1,0 +1,1 @@
+[Ссылка на задачу](https://leetcode.com/problems/longest-palindromic-substring/description/)

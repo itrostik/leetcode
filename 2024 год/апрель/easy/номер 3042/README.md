@@ -1,0 +1,1 @@
+[Ссылка на задачу](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/)
