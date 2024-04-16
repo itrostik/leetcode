@@ -1,10 +1,21 @@
 {
-  "exclude": ["node_modules"],
+  "exclude": [
+    "node_modules"
+  ],
   "compilerOptions": {
     "target": "ESNext",
-    "lib": ["ESNext", "dom"],
+    "lib": [
+      "ESNext",
+      "dom"
+    ],
     "moduleResolution": "node",
     "outDir": "dist",
     "esModuleInterop": true,
+    "baseUrl": "",
+    "paths": {
+      "classes": [
+        "./classes/index.ts"
+      ]
+    }
   }
 }

@@ -1,6 +1,9 @@
+import {TreeNode} from "classes";
+
 function hasPathSum(root: TreeNode | null, targetSum: number): boolean {
   let curr = 0;
   let result = false;
+
   function dfs(root: TreeNode | null) {
     if (result) return;
     if (!root) return;
@@ -18,6 +21,7 @@ function hasPathSum(root: TreeNode | null, targetSum: number): boolean {
     dfs(root.right);
     curr -= root.val;
   }
+
   dfs(root);
   return result;
 }

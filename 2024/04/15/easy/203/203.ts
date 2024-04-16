@@ -1,9 +1,9 @@
 /**
  * Definition for singly-linked list.
- * class ListNode {
+ * class Index {
  *     val: number
- *     next: ListNode | null
- *     constructor(val?: number, next?: ListNode | null) {
+ *     next: Index | null
+ *     constructor(val?: number, next?: Index | null) {
  *         this.val = (val===undefined ? 0 : val)
  *         this.next = (next===undefined ? null : next)
  *     }
