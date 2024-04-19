@@ -1,0 +1,1 @@
+[Ссылка на задачу](https://leetcode.com/problems/find-the-highest-altitude/description)
