@@ -1,3 +1,4 @@
+// @ts-ignore
 let memo = [0, 1]
 
 function fib(n: number): number {
