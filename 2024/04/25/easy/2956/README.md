@@ -1,0 +1,1 @@
+[Ссылка на задачу](https://leetcode.com/problems/find-common-elements-between-two-arrays/)
