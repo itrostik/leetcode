@@ -1,0 +1,1 @@
+[Ссылка на задачу](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/1243163460/)
