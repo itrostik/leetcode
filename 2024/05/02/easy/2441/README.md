@@ -1,0 +1,1 @@
+[Ссылка на задачу](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/?envType=daily-question&envId=2024-05-02)
