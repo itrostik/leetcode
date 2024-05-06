@@ -1,0 +1,1 @@
+[Ссылка на задачу](https://leetcode.com/problems/remove-nodes-from-linked-list/description/?envType=daily-question&envId=2024-05-06)
