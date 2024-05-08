@@ -1,0 +1,1 @@
+[Ссылка на задачу](https://leetcode.com/problems/relative-ranks/?envType=daily-question&envId=2024-05-08)
